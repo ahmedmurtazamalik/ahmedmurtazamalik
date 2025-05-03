@@ -67,7 +67,6 @@
 
 ## 📫 Let's Connect
 
-[![Portfolio](https://img.shields.io/badge/🌐-Portfolio-9cf?style=for-the-badge)](https://ahmedmurtazamalik.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedmurtazamalik@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joeywritessometimes)

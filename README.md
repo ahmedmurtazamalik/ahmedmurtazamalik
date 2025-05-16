@@ -17,7 +17,7 @@
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| **[Zeta Compiler](https://github.com/ahmedmurtazamalik/zeta-compiler)** | Compiler front-end phase for custom English-like syntax programming language | Java, C++, Flex, Yacc |
+| **[Zeta Compiler](https://github.com/ahmedmurtazamalik/zeta-compiler)** | Compiler front-end phase for custom English-like syntax programming language | Java, C++, Flex, Bison |
 | **[Echo](https://github.com/ahmedmurtazamalik/echo)** | Task automation for student societies in a university | JavaFX |
 | **[IPFS-C++](https://github.com/ahmedmurtazamalik/IPFS-cpp)** | InterPlanetary File System simulation with a Ring DHT | C++, DHT |
 | **[Butterfly Parallelization](https://github.com/ahmedmurtazamalik/butterfly-parallelization)** | Optimized graph algorithms using parallel computing frameworks | METIS, OpenMP, MPI |

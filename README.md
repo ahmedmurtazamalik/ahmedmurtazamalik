@@ -33,6 +33,7 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logo=assemblyscript&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
 ### Web & Frameworks
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -48,6 +49,9 @@
 ![MPI](https://img.shields.io/badge/MPI-1B365D?style=for-the-badge)
 ![OpenCL](https://img.shields.io/badge/OpenCL-ED1C24?style=for-the-badge&logo=khronos-group&logoColor=white)
 ![SFML](https://img.shields.io/badge/SFML-8CC03F?style=for-the-badge)
+![JAX](https://img.shields.io/badge/JAX-FF6F00?style=for-the-badge&logo=google&logoColor=white)
+![Numba](https://img.shields.io/badge/Numba-00A3E0?style=for-the-badge&logo=python&logoColor=white)
+![PyCUDA](https://img.shields.io/badge/PyCUDA-8B0000?style=for-the-badge&logo=nvidia&logoColor=white)
 
 ---
 

@@ -18,6 +18,16 @@ $ cat profile.txt
 
 <br>
 
+<div align="center">
+  <svg width="100%" viewBox="0 0 800 24" xmlns="http://www.w3.org/2000/svg">
+    <line x1="0" y1="12" x2="370" y2="12" stroke="#30363d" stroke-width="1.5"/>
+    <text x="400" y="17" font-family="monospace" font-size="16" fill="#58a6ff" text-anchor="middle" font-weight="bold">&lt;/&gt;</text>
+    <line x1="430" y1="12" x2="800" y2="12" stroke="#30363d" stroke-width="1.5"/>
+  </svg>
+</div>
+
+<br>
+
 ### <code>> FEATURED PROJECTS</code>
 
 | `Project & Repository` | `System Overview` | `Tech Stack` |
@@ -34,12 +44,21 @@ $ cat profile.txt
 
 <br>
 
+<div align="center">
+  <svg width="100%" viewBox="0 0 800 24" xmlns="http://www.w3.org/2000/svg">
+    <line x1="0" y1="12" x2="370" y2="12" stroke="#30363d" stroke-width="1.5"/>
+    <text x="400" y="17" font-family="monospace" font-size="16" fill="#58a6ff" text-anchor="middle" font-weight="bold">&lt;/&gt;</text>
+    <line x1="430" y1="12" x2="800" y2="12" stroke="#30363d" stroke-width="1.5"/>
+  </svg>
+</div>
+
+<br>
+
 ### <code>> TECH STACK</code>
 
 <div align="center">
   <table style="border-collapse: collapse;">
     <tr>
-      <!-- Top-left: Core Languages -->
       <td align="center" valign="top" style="padding: 20px 30px; border-right: 1px solid #30363d; border-bottom: 1px solid #30363d;">
         <code>[ Core Languages ]</code><br><br>
         <img src="https://img.shields.io/badge/C++-121212?style=flat-square&logo=c%2B%2B&logoColor=58a6ff" />
@@ -51,7 +70,6 @@ $ cat profile.txt
         <img src="https://img.shields.io/badge/Rust-121212?style=flat-square&logo=rust&logoColor=58a6ff" />
         <img src="https://img.shields.io/badge/Assembly-121212?style=flat-square&logoColor=58a6ff" />
       </td>
-      <!-- Top-right: AI & Machine Learning -->
       <td align="center" valign="top" style="padding: 20px 30px; border-bottom: 1px solid #30363d;">
         <code>[ AI & Machine Learning ]</code><br><br>
         <img src="https://img.shields.io/badge/PyTorch-121212?style=flat-square&logo=pytorch&logoColor=58a6ff" />
@@ -63,7 +81,6 @@ $ cat profile.txt
       </td>
     </tr>
     <tr>
-      <!-- Bottom-left: Parallel & GPU Computing -->
       <td align="center" valign="top" style="padding: 20px 30px; border-right: 1px solid #30363d;">
         <code>[ Parallel & GPU Computing ]</code><br><br>
         <img src="https://img.shields.io/badge/CUDA-121212?style=flat-square&logo=nvidia&logoColor=58a6ff" />
@@ -73,7 +90,6 @@ $ cat profile.txt
         <img src="https://img.shields.io/badge/OpenMP-121212?style=flat-square&logoColor=58a6ff" />
         <img src="https://img.shields.io/badge/SIMD-121212?style=flat-square&logoColor=58a6ff" />
       </td>
-      <!-- Bottom-right: Tools & MLOps -->
       <td align="center" valign="top" style="padding: 20px 30px;">
         <code>[ Tools & MLOps ]</code><br><br>
         <img src="https://img.shields.io/badge/Git-121212?style=flat-square&logo=git&logoColor=58a6ff" />
@@ -92,8 +108,18 @@ $ cat profile.txt
 <br>
 
 <div align="center">
+  <svg width="100%" viewBox="0 0 800 24" xmlns="http://www.w3.org/2000/svg">
+    <line x1="0" y1="12" x2="370" y2="12" stroke="#30363d" stroke-width="1.5"/>
+    <text x="400" y="17" font-family="monospace" font-size="16" fill="#58a6ff" text-anchor="middle" font-weight="bold">&lt;/&gt;</text>
+    <line x1="430" y1="12" x2="800" y2="12" stroke="#30363d" stroke-width="1.5"/>
+  </svg>
+</div>
+
+<br>
+
+<div align="center">
   <code><a href="https://www.linkedin.com/in/ahmed-murtaza-malik" style="color: inherit; text-decoration: none;">linkedin</a></code> &middot; 
   <code><a href="mailto:ahmedmurtazamalik@gmail.com" style="color: inherit; text-decoration: none;">email</a></code> &middot; 
-  <code><a href="https://github.com/ahmedmurtazamalik" style="color: inherit; text-decoration: none;">github</a></code>
+  <code><a href="https://github.com/ahmedmurtazamalik" style="color: inherit; text-decoration: none;">github</a></code> &middot;
   <code><a href="https://ahmedmurtazamalik.vercel.app/" style="color: inherit; text-decoration: none;">portfolio</a></code>
 </div>

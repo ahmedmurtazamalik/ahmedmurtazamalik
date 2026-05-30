@@ -1,5 +1,18 @@
 <div align="center">
-  <h1>Ahmed Murtaza Malik</h1>
+  <svg width="100%" viewBox="0 0 800 90" xmlns="http://www.w3.org/2000/svg">
+    <style>
+      .text { font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, monospace; font-size: 46px; font-weight: bold; }
+      .prompt { fill: #58a6ff; }
+      .name { fill: #c9d1d9; }
+      .cursor { fill: #58a6ff; animation: blink 1s step-end infinite; }
+      @keyframes blink { 50% { opacity: 0; } }
+    </style>
+    <text x="50%" y="50%" text-anchor="middle" dy=".35em" class="text">
+      <tspan class="prompt">&gt; </tspan>
+      <tspan class="name">Ahmed Murtaza Malik</tspan>
+      <tspan class="cursor">_</tspan>
+    </text>
+  </svg>
   <p>
     <code>AI Systems</code> &middot; 
     <code>High-Performance Computing</code> &middot; 
@@ -24,7 +37,6 @@ $ cat profile.txt
 
 </div>
 
-
 <br>
 
 ### <code>> FEATURED PROJECTS</code>
@@ -44,9 +56,13 @@ $ cat profile.txt
 <br>
 
 <div align="center">
-
-<code>────────────────────────── &lt;/&gt; ──────────────────────────</code>
-
+    <table width="100%">
+        <tr>
+            <td width="47%"><hr></td>
+            <td align="center" width="6%"><code>&lt;/&gt;</code></td>
+            <td width="47%"><hr></td>
+        </tr>
+    </table>
 </div>
 
 <br>
@@ -105,9 +121,13 @@ $ cat profile.txt
 <br>
 
 <div align="center">
-
-<code>────────────────────────── &lt;/&gt; ──────────────────────────</code>
-
+    <table width="100%">
+        <tr>
+            <td width="47%"><hr></td>
+            <td align="center" width="6%"><code>&lt;/&gt;</code></td>
+            <td width="47%"><hr></td>
+        </tr>
+    </table>
 </div>
 
 <br>

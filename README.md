@@ -1,86 +1,94 @@
-# 👋 Hi, I'm Ahmed Murtaza Malik 
-
-**🎓 Computer Science Senior | 📍 Pakistan**  
-**💡 Focus: AI Systems, Deep Learning, High-Performance Computing, Indie Game Development**
-
-![Profile Views](https://komarev.com/ghpvc/?username=ahmedmurtazamalik&color=blueviolet&style=flat-square)
-
----
-
-## 🌱 What I'm Up To
-- 🔭 Building **AI systems** combining deep learning, multimodal retrieval, and real-world optimization  
-- ⚡ Exploring **Parallel & Distributed Computing** (MPI, OpenMP, Dask, Ray, RAPIDS)  
-- 🎮 Learning indie game development in **GameMaker & MonoGame**  
-
----
-
-## 🚀 Featured Projects
-
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **[Butterfly Parallelization](https://github.com/ahmedmurtazamalik/butterfly-parallelization)** | Optimized graph algorithms using parallel frameworks | MPI, OpenMP, METIS |
-| **[Multimodal RAG System](https://github.com/ahmedmurtazamalik/multimodal-rag-system)** | Semantic product search using combined text + image embeddings | Python, Transformers, Vector DBs |
-| **[GAN vs Diffusion Study](https://github.com/ahmedmurtazamalik/facial-attribute-editing-gan-diffusion)** | Compared downscaled GANs and Diffusion models with optimized GPU inference | PyTorch, CUDA |
-| **[Zeta Compiler](https://github.com/ahmedmurtazamalik/zeta-compiler)** | Compiler front-end phase for custom English-like syntax programming language | Java, C++, Flex, Bison |
-| **[Urdu Seq2Seq Transformer](https://github.com/ahmedmurtazamalik/waste-detection-urdu-poetry-seq2seq)** | Transformer-based Urdu text generation and translation system | PyTorch, NLP |
-| **[CycleGAN Face-to-Sketch](https://github.com/ahmedmurtazamalik/cyclegan-face-sketch)** | Image-to-image translation for sketch generation | PyTorch, GANs |
-| **[IPFS-C++](https://github.com/ahmedmurtazamalik/IPFS-cpp)** | InterPlanetary File System simulation with a Ring DHT | C++, DHT |
-| **[Echo](https://github.com/ahmedmurtazamalik/echo)** | Task automation for student societies in a university | JavaFX |
-| **[Pacman in x86](https://github.com/ahmedmurtazamalik/pacman-x86assembly)** | Recreation of the beloved arcade game in assembly | x86 Assembly |
-
----
-
-## 🛠️ Tech Stack
-
-### AI & Machine Learning
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Transformers](https://img.shields.io/badge/Transformers-FFCC00?style=for-the-badge)
-![Computer Vision](https://img.shields.io/badge/Computer_Vision-5C2D91?style=for-the-badge)
-![NLP](https://img.shields.io/badge/NLP-8E44AD?style=for-the-badge)
-
-### Parallel & High-Performance Computing
-![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![OpenMP](https://img.shields.io/badge/OpenMP-0096FF?style=for-the-badge)
-![MPI](https://img.shields.io/badge/MPI-1B365D?style=for-the-badge)
-![OpenACC](https://img.shields.io/badge/OpenACC-0285CC?style=for-the-badge&logo=nvidia&logoColor=white)
-![OpenCL](https://img.shields.io/badge/OpenCL-ED1C24?style=for-the-badge&logo=khronos-group&logoColor=white)
-![Numba](https://img.shields.io/badge/Numba-00A3E0?style=for-the-badge&logo=python&logoColor=white)
-
-### Software Development
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C Sharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
-![SFML](https://img.shields.io/badge/SFML-8CC03F?style=for-the-badge)
-
-### MLOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge)
-
----
-
-## 📊 GitHub Stats
-
 <div align="center">
-  
-![Murtaza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmedmurtazamalik&show_icons=true&theme=radical&hide_border=true)
-  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedmurtazamalik&layout=compact&theme=radical&hide_border=true)
-
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=ahmedmurtazamalik&theme=radical&hide_border=true)
-
+  <h1>Ahmed Murtaza Malik</h1>
+  <p>
+    <code>AI Systems</code> &middot; 
+    <code>High-Performance Computing</code> &middot; 
+    <code>Systems Engineering</code>
+  </p>
 </div>
 
----
+<br>
 
-## 📫 Let's Connect
+```bash
+$ cat profile.txt
+> Location: Islamabad, Pakistan
+> Education: B.Sc. Computer Science @ FAST NUCES
+> Current Focus: GPU Acceleration, Multimodal AI, Full-Stack Architecture
+```
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-murtaza-malik)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedmurtazamalik@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joeywritessometimes)
+<br>
 
----
+### / FEATURED ARCHITECTURE & PROJECTS
 
-⭐ From [AhmedMurtazaMalik](https://github.com/ahmedmurtazamalik)
+| Project & Repository | System Overview | Tech Stack |
+| :--- | :--- | :--- |
+| **Suraiyya** *(Final Year Project)* | Adaptive web platform for neurodivergent users featuring real-time WebRTC "body doubling", gamified concurrency, and sentiment-aware AI. | `MERN` `WebRTC` `AI` |
+| **[Butterfly Parallelization](https://github.com/ahmedmurtazamalik/butterfly-parallelization)** | Optimized graph computing algorithms using distributed parallel cluster-based frameworks. | `MPI` `OpenMP` `METIS` |
+| **[Multimodal RAG System](https://github.com/ahmedmurtazamalik/multimodal-rag-system)** | Semantic search pipeline utilizing complex, combined text and image data embeddings. | `Python` `Transformers` |
+| **[GAN vs Diffusion Study](https://github.com/ahmedmurtazamalik/facial-attribute-editing-gan-diffusion)** | Comparative analysis of downscaled GANs and Diffusion models focusing on optimized GPU inference. | `PyTorch` `CUDA` |
+| **[Zeta Compiler](https://github.com/ahmedmurtazamalik/zeta-compiler)** | Custom programming language built from scratch with a lexer, parser, tree-walking engine, and regex. | `Java` `C++` `Flex/Bison` |
+| **[Urdu Seq2Seq Transformer](https://github.com/ahmedmurtazamalik/waste-detection-urdu-poetry-seq2seq)** | Transformer architecture for Urdu text generation and English-Urdu translation. | `PyTorch` `NLP` |
+| **[CycleGAN Face-to-Sketch](https://github.com/ahmedmurtazamalik/cyclegan-face-sketch)** | Advanced image-to-image translation network for automated sketch generation. | `PyTorch` `GANs` |
+| **[IPFS-C++](https://github.com/ahmedmurtazamalik/IPFS-cpp)** | InterPlanetary File System simulation utilizing custom Ring Distributed Hash Tables (DHTs). | `C++` `DHT` |
+| **[Pacman in x86](https://github.com/ahmedmurtazamalik/pacman-x86assembly)** | Highly optimized, low-level multithreaded recreation of the classic arcade game. | `x86 Assembly` |
+
+<br>
+
+### / TECHNICAL ARSENAL
+
+<div align="center">
+  <table style="border-collapse: collapse; border: none;">
+    <tr style="border: none;">
+      <td align="center" valign="top" style="border: none; padding: 10px 30px;">
+        <b>[ Core Languages ]</b><br><br>
+        <img src="https://img.shields.io/badge/C++-121212?style=flat-square&logo=c%2B%2B&logoColor=58a6ff" />
+        <img src="https://img.shields.io/badge/C-121212?style=flat-square&logo=c&logoColor=58a6ff" />
+        <img src="https://img.shields.io/badge/Python-121212?style=flat-square&logo=python&logoColor=58a6ff" />
+        <img src="https://img.shields.io/badge/C%23-121212?style=flat-square&logo=c-sharp&logoColor=58a6ff" /><br>
+        <img src="https://img.shields.io/badge/Java-121212?style=flat-square&logo=openjdk&logoColor=58a6ff" />
+        <img src="https://img.shields.io/badge/SQL-121212?style=flat-square&logo=sqlite&logoColor=58a6ff" />
+        <img src="https://img.shields.io/badge/Rust-121212?style=flat-square&logo=rust&logoColor=58a6ff" />
+        <img src="https://img.shields.io/badge/Assembly-121212?style=flat-square&logoColor=58a6ff" />
+      </td>
+      <td align="center" valign="top" style="border: none; padding: 10px 30px;">
+        <b>[ AI & Machine Learning ]</b><br><br>
+        <img src="https://img.shields.io/badge/PyTorch-121212?style=flat-square&logo=pytorch&logoColor=58a6ff" />
+        <img src="https://img.shields.io/badge/TensorFlow-121212?style=flat-square&logo=tensorflow&logoColor=58a6ff" />
+        <img src="https://img.shields.io/badge/Transformers-121212?style=flat-square&logo=huggingface&logoColor=58a6ff" /><br>
+        <img src="https://img.shields.io/badge/Hugging_Face-121212?style=flat-square&logo=huggingface&logoColor=58a6ff" />
+        <img src="https://img.shields.io/badge/GANs-121212?style=flat-square&logoColor=58a6ff" />
+        <img src="https://img.shields.io/badge/Diffusion_Models-121212?style=flat-square&logoColor=58a6ff" />
+      </td>
+    </tr>
+    <tr style="border: none;">
+      <td align="center" valign="top" style="border: none; padding: 10px 30px;">
+        <br><b>[ Parallel & GPU Computing ]</b><br><br>
+        <img src="https://img.shields.io/badge/CUDA-121212?style=flat-square&logo=nvidia&logoColor=58a6ff" />
+        <img src="https://img.shields.io/badge/OpenCL-121212?style=flat-square&logo=khronosgroup&logoColor=58a6ff" />
+        <img src="https://img.shields.io/badge/OpenACC-121212?style=flat-square&logo=nvidia&logoColor=58a6ff" /><br>
+        <img src="https://img.shields.io/badge/MPI-121212?style=flat-square&logoColor=58a6ff" />
+        <img src="https://img.shields.io/badge/OpenMP-121212?style=flat-square&logoColor=58a6ff" />
+        <img src="https://img.shields.io/badge/SIMD-121212?style=flat-square&logoColor=58a6ff" />
+      </td>
+      <td align="center" valign="top" style="border: none; padding: 10px 30px;">
+        <br><b>[ Tools & MLOps ]</b><br><br>
+        <img src="https://img.shields.io/badge/Git-121212?style=flat-square&logo=git&logoColor=58a6ff" />
+        <img src="https://img.shields.io/badge/Kali_Linux-121212?style=flat-square&logo=kalilinux&logoColor=58a6ff" />
+        <img src="https://img.shields.io/badge/Docker-121212?style=flat-square&logo=docker&logoColor=58a6ff" /><br>
+        <img src="https://img.shields.io/badge/Kubernetes-121212?style=flat-square&logo=kubernetes&logoColor=58a6ff" />
+        <img src="https://img.shields.io/badge/MLflow-121212?style=flat-square&logo=mlflow&logoColor=58a6ff" />
+        <img src="https://img.shields.io/badge/DVC-121212?style=flat-square&logoColor=58a6ff" /><br>
+        <img src="https://img.shields.io/badge/Prometheus-121212?style=flat-square&logo=prometheus&logoColor=58a6ff" />
+        <img src="https://img.shields.io/badge/Grafana-121212?style=flat-square&logo=grafana&logoColor=58a6ff" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br>
+
+<div align="center">
+  <code><a href="https://www.linkedin.com/in/ahmed-murtaza-malik" style="color: inherit; text-decoration: none;">linkedin</a></code> &middot; 
+  <code><a href="mailto:ahmedmurtazamalik@gmail.com" style="color: inherit; text-decoration: none;">email</a></code> &middot; 
+  <code><a href="https://github.com/ahmedmurtazamalik" style="color: inherit; text-decoration: none;">github</a></code>
+</div>

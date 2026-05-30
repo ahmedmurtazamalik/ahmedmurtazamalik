@@ -20,9 +20,9 @@ $ cat profile.txt
 
 <div align="center">
   <svg width="100%" viewBox="0 0 800 24" xmlns="http://www.w3.org/2000/svg">
-    <line x1="0" y1="12" x2="370" y2="12" stroke="#30363d" stroke-width="1.5"/>
+    <line x1="0" y1="12" x2="370" y2="12" stroke="#58a6ff" stroke-width="1.5" stroke-opacity="0.4"/>
     <text x="400" y="17" font-family="monospace" font-size="16" fill="#58a6ff" text-anchor="middle" font-weight="bold">&lt;/&gt;</text>
-    <line x1="430" y1="12" x2="800" y2="12" stroke="#30363d" stroke-width="1.5"/>
+    <line x1="430" y1="12" x2="800" y2="12" stroke="#58a6ff" stroke-width="1.5" stroke-opacity="0.4"/>
   </svg>
 </div>
 
@@ -46,9 +46,9 @@ $ cat profile.txt
 
 <div align="center">
   <svg width="100%" viewBox="0 0 800 24" xmlns="http://www.w3.org/2000/svg">
-    <line x1="0" y1="12" x2="370" y2="12" stroke="#30363d" stroke-width="1.5"/>
+    <line x1="0" y1="12" x2="370" y2="12" stroke="#58a6ff" stroke-width="1.5" stroke-opacity="0.4"/>
     <text x="400" y="17" font-family="monospace" font-size="16" fill="#58a6ff" text-anchor="middle" font-weight="bold">&lt;/&gt;</text>
-    <line x1="430" y1="12" x2="800" y2="12" stroke="#30363d" stroke-width="1.5"/>
+    <line x1="430" y1="12" x2="800" y2="12" stroke="#58a6ff" stroke-width="1.5" stroke-opacity="0.4"/>
   </svg>
 </div>
 
@@ -59,7 +59,7 @@ $ cat profile.txt
 <div align="center">
   <table style="border-collapse: collapse;">
     <tr>
-      <td align="center" valign="top" style="padding: 20px 30px; border-right: 1px solid #30363d; border-bottom: 1px solid #30363d;">
+      <td align="center" valign="top" style="padding: 20px 30px; border-right: 1px solid #484f58; border-bottom: 1px solid #484f58;">
         <code>[ Core Languages ]</code><br><br>
         <img src="https://img.shields.io/badge/C++-121212?style=flat-square&logo=c%2B%2B&logoColor=58a6ff" />
         <img src="https://img.shields.io/badge/C-121212?style=flat-square&logo=c&logoColor=58a6ff" />
@@ -70,7 +70,7 @@ $ cat profile.txt
         <img src="https://img.shields.io/badge/Rust-121212?style=flat-square&logo=rust&logoColor=58a6ff" />
         <img src="https://img.shields.io/badge/Assembly-121212?style=flat-square&logoColor=58a6ff" />
       </td>
-      <td align="center" valign="top" style="padding: 20px 30px; border-bottom: 1px solid #30363d;">
+      <td align="center" valign="top" style="padding: 20px 30px; border-bottom: 1px solid #484f58;">
         <code>[ AI & Machine Learning ]</code><br><br>
         <img src="https://img.shields.io/badge/PyTorch-121212?style=flat-square&logo=pytorch&logoColor=58a6ff" />
         <img src="https://img.shields.io/badge/TensorFlow-121212?style=flat-square&logo=tensorflow&logoColor=58a6ff" />
@@ -81,7 +81,7 @@ $ cat profile.txt
       </td>
     </tr>
     <tr>
-      <td align="center" valign="top" style="padding: 20px 30px; border-right: 1px solid #30363d;">
+      <td align="center" valign="top" style="padding: 20px 30px; border-right: 1px solid #484f58;">
         <code>[ Parallel & GPU Computing ]</code><br><br>
         <img src="https://img.shields.io/badge/CUDA-121212?style=flat-square&logo=nvidia&logoColor=58a6ff" />
         <img src="https://img.shields.io/badge/OpenCL-121212?style=flat-square&logo=khronosgroup&logoColor=58a6ff" />
@@ -109,9 +109,9 @@ $ cat profile.txt
 
 <div align="center">
   <svg width="100%" viewBox="0 0 800 24" xmlns="http://www.w3.org/2000/svg">
-    <line x1="0" y1="12" x2="370" y2="12" stroke="#30363d" stroke-width="1.5"/>
+    <line x1="0" y1="12" x2="370" y2="12" stroke="#58a6ff" stroke-width="1.5" stroke-opacity="0.4"/>
     <text x="400" y="17" font-family="monospace" font-size="16" fill="#58a6ff" text-anchor="middle" font-weight="bold">&lt;/&gt;</text>
-    <line x1="430" y1="12" x2="800" y2="12" stroke="#30363d" stroke-width="1.5"/>
+    <line x1="430" y1="12" x2="800" y2="12" stroke="#58a6ff" stroke-width="1.5" stroke-opacity="0.4"/>
   </svg>
 </div>
 

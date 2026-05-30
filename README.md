@@ -19,12 +19,11 @@ $ cat profile.txt
 <br>
 
 <div align="center">
-  <svg width="100%" viewBox="0 0 800 24" xmlns="http://www.w3.org/2000/svg">
-    <line x1="0" y1="12" x2="370" y2="12" stroke="#58a6ff" stroke-width="1.5" stroke-opacity="0.4"/>
-    <text x="400" y="17" font-family="monospace" font-size="16" fill="#58a6ff" text-anchor="middle" font-weight="bold">&lt;/&gt;</text>
-    <line x1="430" y1="12" x2="800" y2="12" stroke="#58a6ff" stroke-width="1.5" stroke-opacity="0.4"/>
-  </svg>
+
+<code>────────────────────────── &lt;/&gt; ──────────────────────────</code>
+
 </div>
+
 
 <br>
 
@@ -45,11 +44,9 @@ $ cat profile.txt
 <br>
 
 <div align="center">
-  <svg width="100%" viewBox="0 0 800 24" xmlns="http://www.w3.org/2000/svg">
-    <line x1="0" y1="12" x2="370" y2="12" stroke="#58a6ff" stroke-width="1.5" stroke-opacity="0.4"/>
-    <text x="400" y="17" font-family="monospace" font-size="16" fill="#58a6ff" text-anchor="middle" font-weight="bold">&lt;/&gt;</text>
-    <line x1="430" y1="12" x2="800" y2="12" stroke="#58a6ff" stroke-width="1.5" stroke-opacity="0.4"/>
-  </svg>
+
+<code>────────────────────────── &lt;/&gt; ──────────────────────────</code>
+
 </div>
 
 <br>
@@ -108,11 +105,9 @@ $ cat profile.txt
 <br>
 
 <div align="center">
-  <svg width="100%" viewBox="0 0 800 24" xmlns="http://www.w3.org/2000/svg">
-    <line x1="0" y1="12" x2="370" y2="12" stroke="#58a6ff" stroke-width="1.5" stroke-opacity="0.4"/>
-    <text x="400" y="17" font-family="monospace" font-size="16" fill="#58a6ff" text-anchor="middle" font-weight="bold">&lt;/&gt;</text>
-    <line x1="430" y1="12" x2="800" y2="12" stroke="#58a6ff" stroke-width="1.5" stroke-opacity="0.4"/>
-  </svg>
+
+<code>────────────────────────── &lt;/&gt; ──────────────────────────</code>
+
 </div>
 
 <br>

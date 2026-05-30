@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=bold&size=36&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&height=80&lines=%3E+Ahmed+Murtaza+Malik" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=36&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&height=60&lines=%3E+Ahmed+Murtaza+Malik" alt="Typing SVG" />
   <p>
     <code>AI Systems</code> &middot; 
     <code>High-Performance Computing</code> &middot; 

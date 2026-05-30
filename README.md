@@ -38,7 +38,9 @@ $ cat profile.txt
 
 <div align="center">
   <table style="border-collapse: collapse; border: none;">
-    <tr style="height: 0px; border: none;"><td colspan="2" style="padding: 0; margin: 0; border: none; height: 0px; line-height: 0px;"></td></tr>
+    <tr style="border-bottom: 1px solid #30363d;">
+    <td colspan="2" style="padding: 0; border: none; height: 0px; line-height: 0px;"></td>
+    </tr>
     <tr style="border: none;">
       <!-- Column 1 -->
       <td align="center" valign="top" style="border: none; padding: 20px 30px;">

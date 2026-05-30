@@ -19,7 +19,7 @@ $ cat profile.txt
 <br>
 
 <div align="center">
-  <p style="color: #58a6ff;"><code>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ &lt;/&gt; ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</code></p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=14&duration=1&color=58A6FF&center=true&vCenter=true&width=800&height=30&lines=━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━+%3C%2F%3E+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━" alt="Separator" />
 </div>
 
 <br>
@@ -41,7 +41,7 @@ $ cat profile.txt
 <br>
 
 <div align="center">
-  <p style="color: #58a6ff;"><code>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ &lt;/&gt; ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</code></p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=14&duration=1&color=58A6FF&center=true&vCenter=true&width=800&height=30&lines=━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━+%3C%2F%3E+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━" alt="Separator" />
 </div>
 
 <br>
@@ -100,7 +100,7 @@ $ cat profile.txt
 <br>
 
 <div align="center">
-  <p style="color: #58a6ff;"><code>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ &lt;/&gt; ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</code></p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=14&duration=1&color=58A6FF&center=true&vCenter=true&width=800&height=30&lines=━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━+%3C%2F%3E+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━" alt="Separator" />
 </div>
 
 <br>

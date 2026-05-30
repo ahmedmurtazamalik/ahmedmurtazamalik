@@ -13,14 +13,14 @@
 $ cat profile.txt
 > Location: Islamabad, Pakistan
 > Education: B.Sc. Computer Science @ FAST NUCES
-> Current Focus: GPU Acceleration, Multimodal AI, Full-Stack Architecture
+> Current Focus: Multimodal AI Systems, Full-Stack Architecture, Indie Game Dev
 ```
 
 <br>
 
-### / FEATURED ARCHITECTURE & PROJECTS
+### <code>> FEATURED PROJECTS</code>
 
-| Project & Repository | System Overview | Tech Stack |
+| `Project & Repository` | `System Overview` | `Tech Stack` |
 | :--- | :--- | :--- |
 | **Suraiyya** *(Final Year Project)* | Adaptive web platform for neurodivergent users featuring real-time WebRTC "body doubling", gamified concurrency, and sentiment-aware AI. | `MERN` `WebRTC` `AI` |
 | **[Butterfly Parallelization](https://github.com/ahmedmurtazamalik/butterfly-parallelization)** | Optimized graph computing algorithms using distributed parallel cluster-based frameworks. | `MPI` `OpenMP` `METIS` |
@@ -34,13 +34,15 @@ $ cat profile.txt
 
 <br>
 
-### / TECHNICAL ARSENAL
+### <code>> TECH STACK</code>
 
 <div align="center">
   <table style="border-collapse: collapse; border: none;">
+    <tr style="height: 0px; border: none;"><td colspan="2" style="padding: 0; margin: 0; border: none; height: 0px; line-height: 0px;"></td></tr>
     <tr style="border: none;">
-      <td align="center" valign="top" style="border: none; padding: 10px 30px;">
-        <b>[ Core Languages ]</b><br><br>
+      <!-- Column 1 -->
+      <td align="center" valign="top" style="border: none; padding: 20px 30px;">
+        <code>[ Core Languages ]</code><br><br>
         <img src="https://img.shields.io/badge/C++-121212?style=flat-square&logo=c%2B%2B&logoColor=58a6ff" />
         <img src="https://img.shields.io/badge/C-121212?style=flat-square&logo=c&logoColor=58a6ff" />
         <img src="https://img.shields.io/badge/Python-121212?style=flat-square&logo=python&logoColor=58a6ff" />
@@ -49,20 +51,8 @@ $ cat profile.txt
         <img src="https://img.shields.io/badge/SQL-121212?style=flat-square&logo=sqlite&logoColor=58a6ff" />
         <img src="https://img.shields.io/badge/Rust-121212?style=flat-square&logo=rust&logoColor=58a6ff" />
         <img src="https://img.shields.io/badge/Assembly-121212?style=flat-square&logoColor=58a6ff" />
-      </td>
-      <td align="center" valign="top" style="border: none; padding: 10px 30px;">
-        <b>[ AI & Machine Learning ]</b><br><br>
-        <img src="https://img.shields.io/badge/PyTorch-121212?style=flat-square&logo=pytorch&logoColor=58a6ff" />
-        <img src="https://img.shields.io/badge/TensorFlow-121212?style=flat-square&logo=tensorflow&logoColor=58a6ff" />
-        <img src="https://img.shields.io/badge/Transformers-121212?style=flat-square&logo=huggingface&logoColor=58a6ff" /><br>
-        <img src="https://img.shields.io/badge/Hugging_Face-121212?style=flat-square&logo=huggingface&logoColor=58a6ff" />
-        <img src="https://img.shields.io/badge/GANs-121212?style=flat-square&logoColor=58a6ff" />
-        <img src="https://img.shields.io/badge/Diffusion_Models-121212?style=flat-square&logoColor=58a6ff" />
-      </td>
-    </tr>
-    <tr style="border: none;">
-      <td align="center" valign="top" style="border: none; padding: 10px 30px;">
-        <br><b>[ Parallel & GPU Computing ]</b><br><br>
+        <br><br><br>
+        <code>[ Parallel & GPU Computing ]</code><br><br>
         <img src="https://img.shields.io/badge/CUDA-121212?style=flat-square&logo=nvidia&logoColor=58a6ff" />
         <img src="https://img.shields.io/badge/OpenCL-121212?style=flat-square&logo=khronosgroup&logoColor=58a6ff" />
         <img src="https://img.shields.io/badge/OpenACC-121212?style=flat-square&logo=nvidia&logoColor=58a6ff" /><br>
@@ -70,8 +60,17 @@ $ cat profile.txt
         <img src="https://img.shields.io/badge/OpenMP-121212?style=flat-square&logoColor=58a6ff" />
         <img src="https://img.shields.io/badge/SIMD-121212?style=flat-square&logoColor=58a6ff" />
       </td>
-      <td align="center" valign="top" style="border: none; padding: 10px 30px;">
-        <br><b>[ Tools & MLOps ]</b><br><br>
+      <!-- Column 2 -->
+      <td align="center" valign="top" style="border: none; padding: 20px 30px;">
+        <code>[ AI & Machine Learning ]</code><br><br>
+        <img src="https://img.shields.io/badge/PyTorch-121212?style=flat-square&logo=pytorch&logoColor=58a6ff" />
+        <img src="https://img.shields.io/badge/TensorFlow-121212?style=flat-square&logo=tensorflow&logoColor=58a6ff" />
+        <img src="https://img.shields.io/badge/Transformers-121212?style=flat-square&logo=huggingface&logoColor=58a6ff" /><br>
+        <img src="https://img.shields.io/badge/Hugging_Face-121212?style=flat-square&logo=huggingface&logoColor=58a6ff" />
+        <img src="https://img.shields.io/badge/GANs-121212?style=flat-square&logoColor=58a6ff" />
+        <img src="https://img.shields.io/badge/Diffusion_Models-121212?style=flat-square&logoColor=58a6ff" />
+        <br><br><br>
+        <code>[ Tools & MLOps ]</code><br><br>
         <img src="https://img.shields.io/badge/Git-121212?style=flat-square&logo=git&logoColor=58a6ff" />
         <img src="https://img.shields.io/badge/Kali_Linux-121212?style=flat-square&logo=kalilinux&logoColor=58a6ff" />
         <img src="https://img.shields.io/badge/Docker-121212?style=flat-square&logo=docker&logoColor=58a6ff" /><br>
@@ -91,4 +90,5 @@ $ cat profile.txt
   <code><a href="https://www.linkedin.com/in/ahmed-murtaza-malik" style="color: inherit; text-decoration: none;">linkedin</a></code> &middot; 
   <code><a href="mailto:ahmedmurtazamalik@gmail.com" style="color: inherit; text-decoration: none;">email</a></code> &middot; 
   <code><a href="https://github.com/ahmedmurtazamalik" style="color: inherit; text-decoration: none;">github</a></code>
+  <code><a href="https://ahmedmurtazamalik.vercel.app/" style="color: inherit; text-decoration: none;">portfolio</a></code>
 </div>

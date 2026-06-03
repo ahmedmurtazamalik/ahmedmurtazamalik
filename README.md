@@ -28,7 +28,7 @@ $ cat profile.txt
 
 | `Project & Repository` | `System Overview` | `Tech Stack` |
 | :--- | :--- | :--- |
-| **Suraiyya** *(Final Year Project)* | Adaptive web platform for neurodivergent users featuring real-time WebRTC "body doubling", gamified concurrency, and sentiment-aware AI. | `MERN` `WebRTC` `AI` |
+| **[Suraiyya](https://github.com/ahmedmurtazamalik/surraiya)** *(Final Year Project)* | Adaptive web platform for neurodivergent users featuring real-time WebRTC "body doubling", gamified concurrency, and sentiment-aware AI. | `MERN` `WebRTC` `AI` |
 | **[ScholarSense](https://github.com/ahmedmurtazamalik/scholarsense)** | AI-powered Systematic Literature Review (SLR) platform featuring multi-stage programmatic screening, section-aware RAG evaluations, and semantic synthesis. | `FastAPI` `Next.js` `RAG` `ChromaDB` |
 | **[Zeta Compiler](https://github.com/ahmedmurtazamalik/zeta-compiler)** | Custom programming language built from scratch with a lexer, parser, tree-walking engine, and regex. | `Java` `C++` `Flex/Bison` |
 | **[Multimodal RAG System](https://github.com/ahmedmurtazamalik/multimodal-rag-system)** | Semantic search pipeline utilizing complex, combined text and image data embeddings. | `Python` `Transformers` |

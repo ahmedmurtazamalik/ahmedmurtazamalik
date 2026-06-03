@@ -29,14 +29,14 @@ $ cat profile.txt
 | `Project & Repository` | `System Overview` | `Tech Stack` |
 | :--- | :--- | :--- |
 | **Suraiyya** *(Final Year Project)* | Adaptive web platform for neurodivergent users featuring real-time WebRTC "body doubling", gamified concurrency, and sentiment-aware AI. | `MERN` `WebRTC` `AI` |
-| **[Butterfly Parallelization](https://github.com/ahmedmurtazamalik/butterfly-parallelization)** | Optimized graph computing algorithms using distributed parallel cluster-based frameworks. | `MPI` `OpenMP` `METIS` |
-| **[Multimodal RAG System](https://github.com/ahmedmurtazamalik/multimodal-rag-system)** | Semantic search pipeline utilizing complex, combined text and image data embeddings. | `Python` `Transformers` |
-| **[GAN vs Diffusion Study](https://github.com/ahmedmurtazamalik/facial-attribute-editing-gan-diffusion)** | Comparative analysis of downscaled GANs and Diffusion models focusing on optimized GPU inference. | `PyTorch` `CUDA` |
+| **[ScholarSense](https://github.com/ahmedmurtazamalik/scholarsense)** | AI-powered Systematic Literature Review (SLR) platform featuring multi-stage programmatic screening, section-aware RAG evaluations, and semantic synthesis. | `FastAPI` `Next.js` `RAG` `ChromaDB` |
 | **[Zeta Compiler](https://github.com/ahmedmurtazamalik/zeta-compiler)** | Custom programming language built from scratch with a lexer, parser, tree-walking engine, and regex. | `Java` `C++` `Flex/Bison` |
-| **[Urdu Seq2Seq Transformer](https://github.com/ahmedmurtazamalik/waste-detection-urdu-poetry-seq2seq)** | Transformer architecture for Urdu text generation and English-Urdu translation. | `PyTorch` `NLP` |
+| **[Multimodal RAG System](https://github.com/ahmedmurtazamalik/multimodal-rag-system)** | Semantic search pipeline utilizing complex, combined text and image data embeddings. | `Python` `Transformers` |
+| **[Butterfly Parallelization](https://github.com/ahmedmurtazamalik/butterfly-parallelization)** | Optimized graph computing algorithms using distributed parallel cluster-based frameworks. | `MPI` `OpenMP` `METIS` |
 | **[CycleGAN Face-to-Sketch](https://github.com/ahmedmurtazamalik/cyclegan-face-sketch)** | Advanced image-to-image translation network for automated sketch generation. | `PyTorch` `GANs` |
+| **[GAN vs Diffusion Study](https://github.com/ahmedmurtazamalik/facial-attribute-editing-gan-diffusion)** | Comparative analysis of downscaled GANs and Diffusion models focusing on optimized GPU inference. | `PyTorch` `CUDA` |
+| **[Urdu Seq2Seq Transformer](https://github.com/ahmedmurtazamalik/waste-detection-urdu-poetry-seq2seq)** | Transformer architecture for Urdu text generation and English-Urdu translation. | `PyTorch` `NLP` |
 | **[IPFS-C++](https://github.com/ahmedmurtazamalik/IPFS-cpp)** | InterPlanetary File System simulation utilizing custom Ring Distributed Hash Tables (DHTs). | `C++` `DHT` |
-| **[Pacman in x86](https://github.com/ahmedmurtazamalik/pacman-x86assembly)** | Highly optimized, low-level multithreaded recreation of the classic arcade game. | `x86 Assembly` |
 
 <br>
 
